@@ -1,0 +1,9 @@
+{
+  "contest": "Gro Protocol contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "distributePriceChange might revert",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2021-06-gro-findings/issues/21"
+}
