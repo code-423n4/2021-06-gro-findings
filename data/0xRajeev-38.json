@@ -1,0 +1,9 @@
+{
+  "contest": "Gro Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Removing unnecessary check can save gas in withdraw flow",
+  "issueId": 38,
+  "issueUrl": "https://github.com/code-423n4/2021-06-gro-findings/issues/38"
+}
