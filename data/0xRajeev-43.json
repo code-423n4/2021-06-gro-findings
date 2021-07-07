@@ -1,0 +1,9 @@
+{
+  "contest": "Gro Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Removing unnecessary lpToken.balanceOf can save 4700+ gas",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2021-06-gro-findings/issues/43"
+}
