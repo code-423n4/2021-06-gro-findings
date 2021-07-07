@@ -1,0 +1,9 @@
+{
+  "contest": "Gro Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Big fish check ignores fee for classification during withdrawals",
+  "issueId": 62,
+  "issueUrl": "https://github.com/code-423n4/2021-06-gro-findings/issues/62"
+}
