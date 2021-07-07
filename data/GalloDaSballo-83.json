@@ -1,0 +1,9 @@
+{
+  "contest": "Gro Protocol contest",
+  "handle": "GalloDaSballo",
+  "address": "0x4666e94300429C6d3340449bC828E4218F360672",
+  "risk": "0",
+  "title": "Inconsistent usage of exponentiation for constants",
+  "issueId": 83,
+  "issueUrl": "https://github.com/code-423n4/2021-06-gro-findings/issues/83"
+}
