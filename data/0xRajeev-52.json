@@ -1,0 +1,9 @@
+{
+  "contest": "Gro Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Flash loan risk mitigation is optional and not robust enough",
+  "issueId": 52,
+  "issueUrl": "https://github.com/code-423n4/2021-06-gro-findings/issues/52"
+}
