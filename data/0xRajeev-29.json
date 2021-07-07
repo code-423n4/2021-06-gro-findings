@@ -1,0 +1,9 @@
+{
+  "contest": "Gro Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Avoid use of state variables in event emissions to save gas",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2021-06-gro-findings/issues/29"
+}
