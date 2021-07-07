@@ -1,0 +1,9 @@
+{
+  "contest": "Gro Protocol contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Unauthorized rebalanceTrigger calls may allow one to exploit arbitrage opportunity and put system at risk",
+  "issueId": 66,
+  "issueUrl": "https://github.com/code-423n4/2021-06-gro-findings/issues/66"
+}
