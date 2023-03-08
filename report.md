@@ -1,3 +1,11 @@
+---
+sponsor: "Gro Protocol"
+slug: "2021-06-gro"
+date: "2021-08-30"
+title: "Gro Protocol"
+findings: "https://github.com/code-423n4/2021-06-gro-findings/issues"
+contest: 17
+---
 
 # Overview
 
